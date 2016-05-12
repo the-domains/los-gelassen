@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[los-gelassen]]></title>
+        <description><![CDATA[los-gelassen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 18:57:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So bleiben Pferd und Reiter gesund - los-gelassen.com]]></title>
+            <description><![CDATA[<article><h1>So bleiben Pferd und Reiter gesund - los-gelassen.com</h1><p>Vielen Dank für Ihr Verständnis! Liebe Besucher von los-gelassen.com, zur Zeit überarbeiten wir unsere Webseite, um Ihnen die Informationen noch einfacher und übersichtlicher präsentieren zu können. Bis dahin steht Ihnen leider nur ein kleiner Teil unseres Angebotes zur Verfügung. Wir freuen uns darauf, Sie bald auf unserer neu gestalteten Seite zu begrüßen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56e149251a156b59346a1f206783999da0360dfe.jpg"></article>]]></description>
+            <link>http://los-gelassen.com/neue-startseite/</link>
+            <guid isPermaLink="false">52db4bb1-968b-4f9d-a78a-138fa286b349</guid>
+            <pubDate>Thu, 12 May 2016 18:57:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
